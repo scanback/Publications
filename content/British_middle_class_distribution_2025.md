@@ -4,7 +4,7 @@ A couple of weeks ago I published this map of the British middle class on Figsha
 
 ![British Middle Class Map](https://github.com/scanback/publications/blob/1695e4b4012637fb8940e8a3504fe1ab9882b54d/content/assets/images/tellusant-british-middle-class-distribution-2025-map.svg)
 
-The map shows what most people already think they know: that London and the southeast overwhelm the rest of the country in absolute and relative prosperity. However, I bet the magnitudes are unknown by most.
+The map shows what most people already may know: that London and the southeast overwhelm the rest of the country in absolute and relative prosperity. However, I bet the magnitudes are unknown by most.
 
 I did this because I am working on a small piece on English football economics, and this dataset feeds into this. In general, a dataset like this comes alive when combined with other data. Without combining with other data, it is interesting. When combined, it becomes useful.
 
