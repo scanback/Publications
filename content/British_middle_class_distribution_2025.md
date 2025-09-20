@@ -6,7 +6,7 @@ A couple of weeks ago I published this map of the British middle class on Figsha
 
 The map shows what most people already may know: that London and the southeast overwhelm the rest of the country in absolute and relative prosperity. However, I bet the magnitudes are unknown by most.
 
-I did this because I am working on a small piece on English football economics, and this dataset feeds into this. In general, a dataset like this comes alive when combined with other data. Without combining with other data, it is interesting. When combined, it becomes useful.
+I did  this analysis because I am working on a small research piece on English football economics, and this dataset feeds into this. In general, a dataset like this comes alive when combined with other data. Without combining with other data, it is interesting. When combined, it becomes useful.
 
 ---
 
