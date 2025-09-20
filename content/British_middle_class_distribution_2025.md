@@ -1,4 +1,4 @@
-# British Middle Class Distribution 2025
+# Map of British Middle Class Distribution 2025
 
 A couple of weeks ago I published this map of the British middle class on Figshare. It became popular, so I am also posting it on LinkedIn.
 
