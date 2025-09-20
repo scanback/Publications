@@ -22,7 +22,7 @@ This dataset was pulled quickly from **#TelluBase**, the unique cloud-based inco
 It is available as:
 
 - **Subscription service** with continuous updates, graphing capabilities, help desk, and more:  
-  [TelluBase Subscription](https://lnkd.in/eGK6kFsj)  
+  [TelluBase Subscription](https://tellubase/telluplan.com)  
 
 - **On-demand download service** where you specify what you need, pay by credit card, and receive selected data in a spreadsheet. These are one-off downloads with limited extras and support:  
   [TelluBase On-Demand](https://tellubase.com)
@@ -39,7 +39,7 @@ The Figshare post contains:
 - Shapefiles for the map (**ZIP**)  
 - Underlying data (**XLSX**)  
 
-[View on Figshare](https://lnkd.in/eQ7bgsuY)
+[View on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)
 
 ---
 
