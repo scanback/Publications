@@ -2,7 +2,7 @@
 
 A couple of weeks ago I published this map of the British middle class on Figshare. It became popular, so I am also posting it on LinkedIn.
 
-![British Middle Class Map](https://github.com/scanback/publications/blob/1695e4b4012637fb8940e8a3504fe1ab9882b54d/content/assets/images/tellusant-british-middle-class-distribution-2025-map.svg{:target="_blank"}.
+![British Middle Class Map](https://github.com/scanback/publications/blob/1695e4b4012637fb8940e8a3504fe1ab9882b54d/content/assets/images/tellusant-british-middle-class-distribution-2025-map.svg.
 
 The map shows what most people already may know: that London and the southeast overwhelm the rest of the country in absolute and relative prosperity. However, I bet the magnitudes are unknown by most.
 
@@ -22,12 +22,11 @@ This dataset was pulled quickly from **#TelluBase**, the unique cloud-based inco
 It is available as:
 
 - **Subscription service** with continuous updates, graphing capabilities, help desk, and more:  
-  [TelluBase Subscription](https://tellubase.telluplan.com){:target="_blank"}
-  <a href="https://tellubase.telluplan.com" target="_blank" >TelluBase Subscription</a>  
+  [TelluBase Subscription](https://tellubase.telluplan.com) 
 
 
 - **On-demand download service** where you specify what you need, pay by credit card, and receive selected data in a spreadsheet. These are one-off downloads with limited extras and support:  
-  [TelluBase On-Demand](https://tellubase.com){:target="_blank"}
+  [TelluBase On-Demand](https://tellubase.com)
 
 TelluBase is mathematically complex, and no one has been able to replicate it since I started development in 1992. But the user only sees the **glorious outputs**, not the complexity.
 
