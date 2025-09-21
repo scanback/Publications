@@ -22,7 +22,9 @@ This dataset was pulled quickly from **#TelluBase**, the unique cloud-based inco
 It is available as:
 
 - **Subscription service** with continuous updates, graphing capabilities, help desk, and more:  
-  [TelluBase Subscription](https://tellubase.telluplan.com){:target="_blank"}  
+  [TelluBase Subscription](https://tellubase.telluplan.com){:target="_blank"}
+  <a href="https://tellubase.telluplan.com" target="_blank" >TelluBase Subscription</a>  
+
 
 - **On-demand download service** where you specify what you need, pay by credit card, and receive selected data in a spreadsheet. These are one-off downloads with limited extras and support:  
   [TelluBase On-Demand](https://tellubase.com){:target="_blank"}
