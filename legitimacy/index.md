@@ -31,4 +31,8 @@ The main point is that we received an excellent score because of external valida
 - Statista Licensing: Statista republishes Tellusant/TelluBase data with explicit source credit.  
 [Statista example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)  
 
-a
+## 4. Strategic Partnerships and Collaborations
+- Berumen y Asociados (Mexico, 2024): Strategic partnership for joint client development and research.  
+[Press Release](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)  
+- AllianceBernstein (Hong Kong, 2023): Collaboration on China consumer analysis, co-presented at investor conference.  
+[Instagram Photo from Event](https://www.instagram.com/p/CuhwTzzOav3/)    
