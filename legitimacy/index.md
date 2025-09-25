@@ -19,4 +19,16 @@ The main point is that we received an excellent score because of external valida
 - Constellation Brands (2025) — 8-K in SEC filing Exhibit 99.2 cites Tellusant analyses.  
 [Constellation Brands – FY25 Financial Results & FY26 to FY28 Outlook](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)
 - Ambev (2022) — Investor Day deck cites “Tellusant and IWSR data.”  
-[Ambev Investor Day 2022](https://api.mziq.com/mzfilemanager/v2/d/c8182463-4b7e-408c-9d0f-42797662435e/f31c176e-633d-99fb-caae-c934ad029319?origin=1)  
+[Ambev Investor Day 2022](https://api.mziq.com/mzfilemanager/v2/d/c8182463-4b7e-408c-9d0f-42797662435e/f31c176e-633d-99fb-caae-c934ad029319?origin=1)
+
+## 3. Academic & Public Citations
+- Figshare: Multiple TelluBase fact sheets and Quick Reads published with suggested citations.  
+[Tellusant Members on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)  
+- SSRN: Several papers list Tellusant as an author affiliation.  
+[SSRN Papers](https://papers.ssrn.com/searchresults.cfm?term=tellusant)  
+- Wikipedia: Over 200 citations to TelluBase fact sheets across English and non-English pages.  
+[TelluBase Citations](https://en.wikipedia.org/w/index.php?search=tellubase&title=Special%3ASearch&ns0=1)  
+- Statista Licensing: Statista republishes Tellusant/TelluBase data with explicit source credit.  
+[Statista example: Malaysia Middle Class](https://www.statista.com/statistics/1488624/malaysia-consumer-share-by-social-class-in-kuala-lumpur/)  
+
+a
