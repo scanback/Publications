@@ -67,3 +67,7 @@ These sites and media channels demonstrate that Tellusant has live, product-spec
 ---
 
 **Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, and multi-channel product platforms.**
+
+---
+
+Yhis page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
