@@ -43,4 +43,21 @@ The main point is that we received an excellent score because of external valida
 - Harvard Club of Boston (April 2025): Speech confirmed via official Club Flickr album (Business Leaders SIG).  
 [Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
 
+## 6. Digital Platforms
+- tellubase.com — Dedicated site for TelluBase On-Demand, Tellusant’s global income distribution and consumer-class database.  
+[TelluBase On-Demand](https://tellubase.com/)  
+- tellubase.telluplan.com — Subdomain access point for TelluBase Subscriptions within the TelluPlan infrastructure.  
+[TelluBase Subscriptions](https://polusim.telluplan.com/)  
+- polusim.telluplan.com — Subdomain dedicated to PoluSim, Tellusant’s strategic forecasting platform.  
+[PoluSim](https://polusim.telluplan.com/)  
+- pace.telluplan.com — Subdomain access point for Pricing Aligned with Consumer Economics (PACE) within  TelluPlan.  
+[PACE](https://pace.telluplan.com/)  
+- vimeo.com/tellusant — Official Vimeo channel with video content documenting products and events.
+[Tellusant on Vimeo](https://vimeo/tellusant.com)  
+
+These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.
+
+
+
+
 
