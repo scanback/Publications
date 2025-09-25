@@ -15,7 +15,7 @@ The main point is that we received an excellent score because of external valida
 - **Website**: tellusant.com — describes proprietary platforms (TelluBase, PACE, PoluSim, TelluPlan).
 [Tellusant Website](https://tellusant.com/)
 - **LinkedIn**: Active profile for “Tellusant, Inc.”  
-
+[LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
 
 ## 2. Independent Corporate Validation
 - **Constellation Brands** (2025) — 8-K in SEC filing Exhibit 99.2 cites Tellusant analyses.  
