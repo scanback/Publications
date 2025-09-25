@@ -8,4 +8,4 @@ The main point is that we received an excellent score because of external valida
 
 [Go to the validation page on Github](index.md)
 
-[Go to the validation page on our website]([index.md](https://tellusant.com/tellusant-legitimacy-validation/))
+[Go to the validation page on our website](https://tellusant.com/tellusant-legitimacy-validation/)
