@@ -70,4 +70,4 @@ These sites and media channels demonstrate that Tellusant has live, product-spec
 
 ---
 
-Yhis page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
+This page can also be seen on our [website](https://tellusant.com/tellusant-legitimacy-validation/)
