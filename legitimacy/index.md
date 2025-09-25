@@ -35,4 +35,12 @@ The main point is that we received an excellent score because of external valida
 - Berumen y Asociados (Mexico, 2024): Strategic partnership for joint client development and research.  
 [Press Release](https://www.einpresswire.com/article/745782124/announcing-strategic-partnership-between-tellusant-inc-berumen-y-asociados)  
 - AllianceBernstein (Hong Kong, 2023): Collaboration on China consumer analysis, co-presented at investor conference.  
-[Instagram Photo from Event](https://www.instagram.com/p/CuhwTzzOav3/)    
+[Instagram Photo from Event](https://www.instagram.com/p/CuhwTzzOav3/)
+
+## 5. Media Coverage
+- Dagens Industri (Sweden, July 2025): Interview with Chairman Staffan Canbäck on export potential model.  
+[Dagens Industry Interview (in Swedish)](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)  
+- Harvard Club of Boston (April 2025): Speech confirmed via official Club Flickr album (Business Leaders SIG).  
+[Harvard Club of Boston speech: The World Is My Oyster](https://www.flickr.com/photos/199059777@N07/albums/72177720325716338/with/54485514278)
+
+
