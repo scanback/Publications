@@ -1,4 +1,4 @@
-# Publications by Staffan Canback nd Tellusant, Inc.
+# Publications by Staffan Canback and Tellusant, Inc.
 This repo contains various published materials by Staffan Canback, executive chairman of Tellusant, Inc.  
 Most of the materials are LinkedIn posts converted to Markdown files (.md).  
 
