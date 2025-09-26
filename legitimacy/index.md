@@ -64,7 +64,7 @@ The main point is that we received an excellent score because of external valida
 *These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
 ## 7. Assessment
-- **Formality**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address.  
+- **Formalities**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address.  
 - **Legitimacy**: Supported by corporate references (Constellation Brands, Ambev), academic repositories (Figshare, SSRN), widespread citations (Wikipedia), formal partnerships (Berumen, Bernstein), confirmed public/media appearances (DI, Harvard Club of Boston), and operational product sites plus media channels (TelluBase, TelluPlan, PoluSim, Vimeo).  
 - **Scale**: Boutique firm, but recognized across corporate, academic, public, partnership, and media domains.  
 
