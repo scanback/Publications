@@ -70,7 +70,7 @@ The main point is that we received an excellent score because of external valida
 
 ---
 
-**Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, and multi-channel product platforms.**
+*Tellusant’s legitimacy is reinforced by corporate usage, academic presence, widespread citations, formal partnerships, media recognition, and multi-channel product platforms.*
 
 ---
 
