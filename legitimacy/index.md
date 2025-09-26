@@ -18,7 +18,7 @@ The main point is that we received an excellent score because of external valida
 [LinkedIn Profile](https://www.linkedin.com/company/tellusant/)  
 
 ## 2. Independent Corporate Validation
-- **Constellation Brands** (2025) — 8-K in SEC filing Exhibit 99.2 cites Tellusant analyses.
+- **Constellation Brands** (2025) — 8-K in SEC filing Exhibit 99.2 cites Tellusant analyses.  
 *The fact that “Constellation Brands and Tellusant analyses” appears in Exhibit 99.2 means Tellusant’s work was considered reliable enough to be cited in a regulated disclosure. That’s not something an unserious entity could pull off.*  
 [Constellation Brands – FY25 Financial Results & FY26 to FY28 Outlook](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)  
 - **Ambev** (2022) — Investor Day deck cites “Tellusant and IWSR data.”  
