@@ -59,7 +59,7 @@ The main point is that we received an excellent score because of external valida
 - vimeo.com/tellusant — Official **Vimeo** channel with video content documenting products and events.
 [Tellusant on Vimeo](https://vimeo/tellusant.com)  
 
-These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.  
+"These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site."  
 
 ## 7. Assessment
 - **Formality**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address.  
