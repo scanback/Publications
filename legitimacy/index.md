@@ -19,11 +19,12 @@ The main point is that we received an excellent score because of external valida
 
 ## 2. Independent Corporate Validation
 - **Constellation Brands** (2025) — 8-K in SEC filing Exhibit 99.2 cites Tellusant analyses.
-"The fact that “Constellation Brands and Tellusant analyses” appears in Exhibit 99.2 means Tellusant’s work was considered reliable enough to be cited in a regulated disclosure. That’s not something an unserious entity could pull off."  
-[Constellation Brands – FY25 Financial Results & FY26 to FY28 Outlook](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)
+*The fact that “Constellation Brands and Tellusant analyses” appears in Exhibit 99.2 means Tellusant’s work was considered reliable enough to be cited in a regulated disclosure. That’s not something an unserious entity could pull off.*  
+[Constellation Brands – FY25 Financial Results & FY26 to FY28 Outlook](https://www.sec.gov/Archives/edgar/data/16918/000001691825000017/stzex99-2_022825.pdf)  
 - **Ambev** (2022) — Investor Day deck cites “Tellusant and IWSR data.”  
-"Ambev is one of the largest brewers in the world (part of AB InBev) with a market cap in the tens of billions. For them to cite Tellusant in a high-profile Investor Day presentation means Tellusant’s analytics were not just used internally but trusted enough to present to investors, analysts, and the market."  
-[Ambev Investor Day 2022](https://api.mziq.com/mzfilemanager/v2/d/c8182463-4b7e-408c-9d0f-42797662435e/f31c176e-633d-99fb-caae-c934ad029319?origin=1)
+*Ambev is one of the largest brewers in the world (part of AB InBev) with a market cap in the tens of billions. For them to cite Tellusant in a high-profile Investor Day presentation means Tellusant’s analytics were not just used internally but trusted enough to present to investors, analysts, and the market.*  
+[Ambev Investor Day 2022](https://api.mziq.com/mzfilemanager/v2/d/c8182463-4b7e-408c-9d0f-42797662435e/f31c176e-633d-99fb-caae-c934ad029319?origin=1)  
+*Taken together, these references show Tellusant is not a shell or purely self-promotional firm. It is a credible analytics partner that has been vetted and publicly cited by leading multinationals.*  
 
 ## 3. Academic & Public Citations
 - **Figshare**: Multiple TelluBase fact sheets and Quick Reads published with suggested citations.  
@@ -59,7 +60,7 @@ The main point is that we received an excellent score because of external valida
 - vimeo.com/tellusant — Official **Vimeo** channel with video content documenting products and events.
 [Tellusant on Vimeo](https://vimeo/tellusant.com)  
 
-"These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site."  
+*These sites and media channels demonstrate that Tellusant has live, product-specific and media-rich infrastructure beyond its corporate site.*  
 
 ## 7. Assessment
 - **Formality**: Tellusant is a registered U.S. entity with USPTO trademark and corporate address.  
