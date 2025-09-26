@@ -1,4 +1,4 @@
-## Tellusant Legitimacy Validation
+## Tellusant Legitimacy Evidence
 
 This page summarizes the legitimacy of Tellusant as validated by ChatGPT.  
 
