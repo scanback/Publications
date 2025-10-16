@@ -16,7 +16,8 @@ Denna artikel belyser möjligheterna för framtiden baserat på en statistisk ex
 Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. På intet sätt dålig, men svag. Graf 1 visar utvecklingen.  
 
 
-Graf 1
+Graf 1  
+
 Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz).¹ har vår export vuxit snabbare än mottagarländernas BNP.  
 
 Inte oväntat eftersom ett syfte med den inre markanden är att stimulera intern handel. Den inre marknaden står nu för två-tredjedelar av svensk export.  
@@ -30,18 +31,21 @@ Det förefaller som om så mycket energi har gått åt att fånga möjligheter i
 ### Svensk exportkomplexitet
 Det finns dock en viktig ljuspunkt. Svensk export är sofistikerad. Vi rankas som nionde land i världen efter exportkomplexitet.  
 
-Graf 2
+Graf 2  
+
 Svenska exportvaror är högförädlade. Det gäller inte bara läkemedel, fordon och andra uppenbara varor. Många varor som kan ses som basvaror har inom sina segment högt förädlingsvärde (t ex stål).  
 
 ## Profil av exportmarknader
 Graf 3 visar vart svensk export går. Av de tio största länderna är alla utom USA inom den inre marknaden. En framgång för EU-samarbetet, men visst borde några länder som Kina och Brasilien vara på listan.  
 
-Graf 3
+Graf 3  
+
 Denna bild är välkänd och bidrar inte till en bättre förståelse av framtida exportmöjligheter.  
 
 Graf 4 visar istället den mer intressanta och mer okända vyn av Sveriges andel av olika länders import. Vi kan se detta som vår marknadsandel i olika länder.  
 
 Graf 4  
+
 Det är slående hur väl vi exporterar till NB8 (Nordic-Baltic 8). Dessa länder utgör de sju första länderna (Sverige är givetvis det åttonde).  
 
 Efter detta följer en överraskning: Egypten. Landet växer snabbt,  har gigantiska infrastrukurprojekt och den bäst diversifierade ekonomin² i världen, så det är kanske inte är så underligt trots allt.  
@@ -54,7 +58,8 @@ Hittills har vi sett beskrivande information. Intressant, men den ger få insikt
 Vilka faktorer är avgörande för exportframgång? Fem faktorer visar sig vara viktiga, sammanfattade i Graf 5. Hur viktiga visas senare i sektionen Resultat från modellen.  
 
 
-Graf 5
+Graf 5  
+
 Data för dessa faktorer samlades in för 209 länder och territorier. I det följande visas några viktiga aspekter av dessa data.  
 
 ### Språklig distans
@@ -63,7 +68,8 @@ Språklig distans är en viktig faktor. Det är svårt att förhandla om svenska
 
 Inom lingvistik har språklig distans kvantifierats. Graf 6 visar distansen från svenska (index 0) för några viktiga handelsspråk. Alla länders språkliga distans samlades in. Engelska, franska, spanska eller portugisiska valdes som handelsspråk för länder med lång tradition med dessa språk.  
 
-Graf 6
+Graf 6  
+
 Att de skandinaviska språken ligger nära svenska är föga överraskande. Att tyska ligger nära är kanske inte uppenbart (tips: exportörer, lär er hyfsad tyska, inklusive att läsa språket).  
 
 Engelska, ett germanskt språk, ligger rimligt nära. Men de romanska språken har ett stort avstånd. Få svenskar talar franska eller spanska väl trots att länder med dessa språk är stora importländer.  
@@ -79,7 +85,8 @@ Planering: vissa kulturer arbetar med genomtänkta planer medan andra är mer im
 
 Stabilitet: vissa kulturer premierar pålitlighet och andra flexibilitet (och innovation).  
 
-Graf 7
+Graf 7  
+
 Notera att det inte finns något värdeomdöme i dessa dimensioner. Det är t ex varken bättre eller sämre att arbeta i en hierarisk gentemot flat kultur.  
 
 Svenskar är starkt orienterade till flata strukturer. De flesta länder finner detta underligt. Betyder det att svensk export lyckas bättre när vi har liknande synsätt?  
@@ -95,7 +102,6 @@ Svenskar är mer genomsnittliga i stabilitetsdimensionen. Vi premierar pålitlig
 
 *Importmarknadens storlek* spelar uppenbarligen en stor roll. Det är lätt att vara framgångsrik i ett land som Estland och svårt i USA, allt annat lika.
 
-
 Basmodellen visar att alla dessa faktorer är statistiskt signifikanta förutom handelshinder.
 
 För exportörer rekommenderar vi att språklig distans, attityd till struktur, geografisk distans, och importlandets potential beaktas. Fyra dimensioner är hanterbart för ett företag.
@@ -103,7 +109,8 @@ För exportörer rekommenderar vi att språklig distans, attityd till struktur, 
 ## Resultat från modellen
 Vi börjar med Graf 8 direkt ur det statistika analysprogrammet (Stata). Den kräver förklaringar.
 
-Graf 8
+Graf 8  
+
 Resultaten kommer från en linjär regression. R-kvadrat (godhet i passform) är 0,84. R-kvadrat över 0,8 är ett utmärkt resultat.
 
 Endast cirka 60 viktiga exportländer visas. 150 mindre länder ligger omkring diagonalen till vänster om de länder som syns. Ju längre till höger, desto större export.
@@ -124,7 +131,8 @@ Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna li
 
 Graf 9 sätter siffor på de relativa exportframgångarna.
 
-Graf 9
+Graf 9  
+
 Men hur stora är exportmöjligheterna i kronor? Den sista sektionen visar detta.
 
 ## Sveriges möjligheter och prioriteter
@@ -140,7 +148,8 @@ För länder under diagonalen, där svensk export inte nått sin potential, sikt
 
 Graf 10 sammanfattar denna analys baserad på den statistiska modellen. Hänsyn har tagits till språklig, kulturell och geografisk distans.
 
-Graf 10
+Graf 10  
+
 Tyskland är den största möjligheten (USA, om export blir enklare igen, skulle ligga i nivå med Tyskland). Indien och Kina har stor potential, trots våra skillnader.
 
 Frankrike, Schweiz och Italien är idag inte framgångsrika exportmarknader, men har stor potential.
@@ -149,7 +158,8 @@ Ett bredare perspektiv syns i graf 11. Vilka är möjligheterna per världsdel? 
 
 Asien har god potential bortom Kina och Indien. Att Afrika kommer därefter förklaras av den höga ekonomiska tillväxten (näst högst i världen de senaste 25 åren och högst i världen de kommande 25.
 
-Graf 11
+Graf 11  
+
 En ökad exporttillväxt på 0,5% per år, från 2,2% 1999–2024, till 2,7% 2024–2027 är en rimligt ambition. Detta kräver stora reformer och en gedigen kraftsamling.
 
 Ökad export av denna magnitud kräver också att Sverige går bättre. Tillväxten har varit bra efter EU mått, men lämnar en hel del att önska i ett världsperspektiv.
