@@ -1,4 +1,4 @@
-# My Publications Repository
+# My Publications & Citations Repository
 
 This is being built gradually starting October 17, 2025
 
