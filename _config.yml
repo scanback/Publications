@@ -1,0 +1,15 @@
+title: "STAFFAN CANBACK."
+description: "My publications and citations"
+
+url: "https://scanback.github.io"
+baseurl: "/docs"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+# SC test
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       image: https://tellusant.github.io/docs/assets/social-card.png
