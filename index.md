@@ -1,4 +1,4 @@
-# Staffan Canback Publications Repository
+# My Publications Repository
 
 This is being built gradually starting October 17, 2025
 
